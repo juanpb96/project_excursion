@@ -1,4 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body {
     background-color: #010001;
     color: #FFF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    margin: 30px 0;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    margin-bottom: 30px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+    margin-bottom: 30px;
+}
+
+a, a:link, a:visited {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+video {
+    margin-bottom: 30px;
+}
+
+#about img {
+    width: 100%;
+    max-width: 1000px;
+}
+
+footer {
+    text-align: right;
+    padding: 0px 30px;
+}
+
