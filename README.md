@@ -2,6 +2,10 @@
 
 This project is an HTML and CSS practice, here you can find an example of web page that is promoting an excursion app.
 
+## Link
+
+[Excursion App](https://juanpb96.github.io/project_excursion/)
+
 ## Technologies used
 
 - HTML 5
